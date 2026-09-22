@@ -18,26 +18,6 @@
 
 <br/>
 
-<!-- ============================================= -->
-<!-- ★ ANIMATED AESTHETIC GIF'S BY RAYHAANRAKIB ★ -->
-<!-- ============================================= -->
-<div align="center">
-
-<table width="100%" style="width:100%; table-layout:fixed; border-collapse:collapse;">
-  <tr>
-    <td width="50%" align="center" style="padding:4px;">
-      <img src="https://res.cloudinary.com/atwb5lzk/image/upload/v1788779444/animated-1.gif" width="100%" style="max-width:380px; border-radius:8px;" alt="animated desk aesthetic" />
-    </td>
-    <td width="50%" align="center" style="padding:4px;">
-      <img src="https://res.cloudinary.com/atwb5lzk/image/upload/v1788779444/animated-2.gif" width="100%" style="max-width:380px; border-radius:8px;" alt="animated balcony aesthetic" />
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<br/>
-
 ## 👋 About Me
 
 <table width="100%" style="width:100%; table-layout:fixed; border-collapse:collapse;">
@@ -65,21 +45,6 @@ I'm **Rakibul Islam Rayhan**, a full-stack web developer who started on the fron
 ## 🧰 Tech Stack
 
 <div align="center">
-  <img src="https://res.cloudinary.com/atwb5lzk/image/upload/v1788777354/tech-stack-banner.png" width="100%" style="max-width:900px; border-radius:10px;" alt="tech stack: frontend, backend & database, tools & platforms" />
-</div>
-
-<br/>
-
-<div align="center">
-
-<details>
-<summary>
-  <img src="https://img.shields.io/badge/⚡_EXPLORE_MY_FULL_TECH_ARSENAL-0B131A?style=for-the-badge&logoColor=2DD4BF&labelColor=2DD4BF&color=0B131A" alt="Explore Tech Stack" />
-  <br/>
-  <sub><i>👆 Click to expand and view all technologies I work with</i></sub>
-</summary>
-
-<br/>
 
 <table width="100%" style="width:100%; table-layout:fixed; border-collapse:collapse;">
   <tr>
@@ -111,6 +76,8 @@ I'm **Rakibul Islam Rayhan**, a full-stack web developer who started on the fron
   <img src="https://img.shields.io/badge/PostgreSQL-0B131A?style=for-the-badge&logo=postgresql&logoColor=2DD4BF" height="40" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Prisma-0B131A?style=for-the-badge&logo=prisma&logoColor=2DD4BF" height="40" alt="Prisma" />
   <img src="https://img.shields.io/badge/NeonDB-0B131A?style=for-the-badge&logo=neon&logoColor=2DD4BF" height="40" alt="NeonDB" />
+  <img src="https://img.shields.io/badge/Redis-0B131A?style=for-the-badge&logo=redis&logoColor=2DD4BF" height="40" alt="Redis" />
+  <img src="https://img.shields.io/badge/Zod-0B131A?style=for-the-badge&logo=zod&logoColor=2DD4BF" height="40" alt="Zod" />
   <img src="https://img.shields.io/badge/Supabase-0B131A?style=for-the-badge&logo=supabase&logoColor=2DD4BF" height="40" alt="Supabase" />
   <img src="https://img.shields.io/badge/Firebase-0B131A?style=for-the-badge&logo=firebase&logoColor=2DD4BF" height="40" alt="Firebase" />
   <img src="https://img.shields.io/badge/JWT-0B131A?style=for-the-badge&logo=jsonwebtokens&logoColor=2DD4BF" height="40" alt="JWT" />
@@ -138,7 +105,6 @@ I'm **Rakibul Islam Rayhan**, a full-stack web developer who started on the fron
 ### 🛍️ CMS & E-commerce
 <p align="left">
   <img src="https://img.shields.io/badge/WordPress-0B131A?style=for-the-badge&logo=wordpress&logoColor=2DD4BF" height="40" alt="WordPress" />
-  <img src="https://img.shields.io/badge/Shopify-0B131A?style=for-the-badge&logo=shopify&logoColor=2DD4BF" height="40" alt="Shopify" />
   <img src="https://img.shields.io/badge/Stripe-0B131A?style=for-the-badge&logo=stripe&logoColor=2DD4BF" height="40" alt="Stripe" />
   <img src="https://img.shields.io/badge/SSLCommerz-0B131A?style=for-the-badge&logoColor=2DD4BF" height="40" alt="SSLCommerz" />
 </p>
@@ -147,8 +113,6 @@ I'm **Rakibul Islam Rayhan**, a full-stack web developer who started on the fron
   </tr>
 </table>
 
-</details>
-
 </div>
 
 <br/>
@@ -156,7 +120,152 @@ I'm **Rakibul Islam Rayhan**, a full-stack web developer who started on the fron
 ## 🚀 Featured Projects
 
 <!-- ============================================= -->
-<!-- ★ PROJECT 01 — GO STUDENT CLASSROOM ★ -->
+<!-- ★ PROJECT 01 — BIDYUT ★ -->
+<!-- ============================================= -->
+
+<table width="100%" align="center">
+<tr>
+<td width="100%">
+
+<div align="center">
+
+![Bidyut Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0B131A,100:2DD4BF&height=120&section=header&text=Bidyut&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=Load%20Shedding%20and%20Power%20Outage%20Management%20API&descSize=14&descAlignY=62&descAlign=50)
+
+</div>
+
+> ### ⚡ A production-grade REST API for load-shedding schedules, outage reporting, and restoration tracking — with real Stripe payments, strict role-based access control, grid analytics, and a public status endpoint. 71 endpoints across 10 modules.
+
+<div align="center">
+
+**⚡ TECH STACK**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-0B131A?style=for-the-badge&logo=typescript&logoColor=2DD4BF)
+![Express](https://img.shields.io/badge/Express-0B131A?style=for-the-badge&logo=express&logoColor=2DD4BF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0B131A?style=for-the-badge&logo=postgresql&logoColor=2DD4BF)
+![Prisma](https://img.shields.io/badge/Prisma-0B131A?style=for-the-badge&logo=prisma&logoColor=2DD4BF)
+![Redis](https://img.shields.io/badge/Redis-0B131A?style=for-the-badge&logo=redis&logoColor=2DD4BF)
+![Stripe](https://img.shields.io/badge/Stripe-0B131A?style=for-the-badge&logo=stripe&logoColor=2DD4BF)
+
+</div>
+
+**✨ Key Highlights**
+- 🔐 &nbsp;Email/password + Google OAuth 2.0, OTP verification, JWT access & refresh tokens
+- 🗺️ &nbsp;Four-level grid hierarchy (Zone → Substation → Feeder → Area) with schedule overlap detection
+- 🚨 &nbsp;Forward-only outage state machine with bulk-incident auto-detection
+- 💳 &nbsp;Server-priced Stripe payments with signed webhooks and atomic transactions
+- 📊 &nbsp;Role-specific analytics and a public, Redis-cached grid-status endpoint
+
+<div align="center">
+
+[![Live API](https://img.shields.io/badge/LIVE_API-2DD4BF?style=for-the-badge&logo=vercel&logoColor=0B131A)](https://bidyut-backend.vercel.app/api/v1)
+[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-2DD4BF?style=for-the-badge&logo=github&logoColor=0B131A)](https://github.com/rayhaanrakib/bidyut-backend)
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ============================================= -->
+<!-- ★ PROJECT 02 — RENTNEST ★ -->
+<!-- ============================================= -->
+
+<table width="100%" align="center">
+<tr>
+<td width="100%">
+
+<div align="center">
+
+![RentNest Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0B131A,100:2DD4BF&height=120&section=header&text=RentNest&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=Full-Stack%20Rental%20Marketplace&descSize=14&descAlignY=62&descAlign=50)
+
+</div>
+
+> ### 🏡 A production-oriented rental marketplace with role-based dashboards for Tenants, Landlords, and Admins — server-first architecture, JWT auth with silent refresh, and a seamless Stripe payment flow.
+
+<div align="center">
+
+**⚡ TECH STACK**
+
+![Next.js](https://img.shields.io/badge/Next.js-0B131A?style=for-the-badge&logo=next.js&logoColor=2DD4BF)
+![TypeScript](https://img.shields.io/badge/TypeScript-0B131A?style=for-the-badge&logo=typescript&logoColor=2DD4BF)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0B131A?style=for-the-badge&logo=tailwindcss&logoColor=2DD4BF)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-0B131A?style=for-the-badge&logo=shadcnui&logoColor=2DD4BF)
+![Prisma](https://img.shields.io/badge/Prisma-0B131A?style=for-the-badge&logo=prisma&logoColor=2DD4BF)
+![Stripe](https://img.shields.io/badge/Stripe-0B131A?style=for-the-badge&logo=stripe&logoColor=2DD4BF)
+
+</div>
+
+**✨ Key Highlights**
+- 🔒 &nbsp;Middleware-based auth + RBAC — Tenant, Landlord, and Admin routes strictly isolated
+- 🏢 &nbsp;Full property CRUD, availability toggling, and rental request workflows
+- 💰 &nbsp;Stripe Checkout with server-initiated redirect, no client-side token exposure
+- ⚡ &nbsp;Next.js Server Actions with tag-based cache revalidation for fine-grained updates
+- 🍪 &nbsp;httpOnly cookie tokens with automatic refresh — never exposed to client state
+
+<div align="center">
+
+[![View Frontend](https://img.shields.io/badge/VIEW_FRONTEND-2DD4BF?style=for-the-badge&logo=github&logoColor=0B131A)](https://github.com/rayhaanrakib/RentNest-Frontend-Project)
+[![View Backend](https://img.shields.io/badge/VIEW_BACKEND-2DD4BF?style=for-the-badge&logo=github&logoColor=0B131A)](https://github.com/rayhaanrakib/RentNest-Backend-Project)
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ============================================= -->
+<!-- ★ PROJECT 03 — SI'AN BOUTIQUE ★ -->
+<!-- ============================================= -->
+
+<table width="100%" align="center">
+<tr>
+<td width="100%">
+
+<div align="center">
+
+![Sian Boutique Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0B131A,100:2DD4BF&height=120&section=header&text=Si'an%20Boutique&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=Next.js%20E-commerce%20Storefront&descSize=14&descAlignY=62&descAlign=50)
+
+</div>
+
+> ### 🛍️ A portfolio-grade, frontend-only rebuild of a fashion storefront — Next.js 16 App Router, 6-language i18n, a faceted catalog, correct cart/checkout logic, and a customer + admin dashboard running on a mock data layer that behaves like a real API.
+
+<div align="center">
+
+**⚡ TECH STACK**
+
+![Next.js](https://img.shields.io/badge/Next.js-0B131A?style=for-the-badge&logo=next.js&logoColor=2DD4BF)
+![TypeScript](https://img.shields.io/badge/TypeScript-0B131A?style=for-the-badge&logo=typescript&logoColor=2DD4BF)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0B131A?style=for-the-badge&logo=tailwindcss&logoColor=2DD4BF)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-0B131A?style=for-the-badge&logo=shadcnui&logoColor=2DD4BF)
+![Zustand](https://img.shields.io/badge/Zustand-0B131A?style=for-the-badge&logoColor=2DD4BF)
+
+</div>
+
+**✨ Key Highlights**
+- 🌐 &nbsp;Fully localized in 6 languages (English, Español, Français, Deutsch, 日本語, বাংলা)
+- 🧩 &nbsp;Variant-aware inventory, coupon engine, and an order status state machine
+- 🖥️ &nbsp;Admin dashboard with a full size × colour variant matrix and a ⌘K command palette
+- 🎬 &nbsp;GSAP + Lenis smooth-scroll motion, gated behind `prefers-reduced-motion`
+- 🧪 &nbsp;Recruiter-friendly demo mode — no sign-up required to explore storefront, customer, and admin views
+
+<div align="center">
+
+[![Live Storefront](https://img.shields.io/badge/LIVE_STOREFRONT-2DD4BF?style=for-the-badge&logo=vercel&logoColor=0B131A)](https://sian-boutique.vercel.app)
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ============================================= -->
+<!-- ★ PROJECT 04 — GO STUDENT CLASSROOM ★ -->
 <!-- ============================================= -->
 
 <table width="100%" align="center">
@@ -202,98 +311,6 @@ I'm **Rakibul Islam Rayhan**, a full-stack web developer who started on the fron
 <br/>
 
 <!-- ============================================= -->
-<!-- ★ PROJECT 02 — SIAN BOUTIQUE ★ -->
-<!-- ============================================= -->
-
-<table width="100%" align="center">
-<tr>
-<td width="100%">
-
-<div align="center">
-
-![Sian Boutique Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0B131A,100:2DD4BF&height=120&section=header&text=Sian%20Boutique&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=Modern%20Fashion%20E-commerce%20Platform&descSize=14&descAlignY=62&descAlign=50)
-
-</div>
-
-> ### 🛍️ A modern fashion e-commerce platform delivering a responsive shopping experience, secure authentication, and seamless online payment integration.
-
-<div align="center">
-
-**⚡ TECH STACK**
-
-![React](https://img.shields.io/badge/React-0B131A?style=for-the-badge&logo=react&logoColor=2DD4BF)
-![Node.js](https://img.shields.io/badge/Node.js-0B131A?style=for-the-badge&logo=node.js&logoColor=2DD4BF)
-![Express](https://img.shields.io/badge/Express-0B131A?style=for-the-badge&logo=express&logoColor=2DD4BF)
-![MongoDB](https://img.shields.io/badge/MongoDB-0B131A?style=for-the-badge&logo=mongodb&logoColor=2DD4BF)
-![Stripe](https://img.shields.io/badge/Stripe-0B131A?style=for-the-badge&logo=stripe&logoColor=2DD4BF)
-
-</div>
-
-**✨ Key Highlights**
-- 🛒 &nbsp;Dynamic product catalog with smart filtering & search
-- 💳 &nbsp;End-to-end Stripe payment integration with secure checkout
-- 📱 &nbsp;Mobile-first responsive design across all devices
-- 👤 &nbsp;Full user auth, wishlists, and order-history tracking
-
-<div align="center">
-
-[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-2DD4BF?style=for-the-badge&logo=github&logoColor=0B131A)](https://github.com/rayhaanrakib/Si-an-Boutique)
-
-</div>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ============================================= -->
-<!-- ★ PROJECT 03 — RENTNEST ★ -->
-<!-- ============================================= -->
-
-<table width="100%" align="center">
-<tr>
-<td width="100%">
-
-<div align="center">
-
-![RentNest Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0B131A,100:2DD4BF&height=120&section=header&text=RentNest%20API&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=Scalable%20Rental%20Marketplace%20Backend&descSize=14&descAlignY=62&descAlign=50)
-
-</div>
-
-> ### 🏡 A scalable backend for a rental marketplace featuring role-based auth, property management, rental requests, Stripe payments, and clean Prisma architecture.
-
-<div align="center">
-
-**⚡ TECH STACK**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-0B131A?style=for-the-badge&logo=typescript&logoColor=2DD4BF)
-![Express](https://img.shields.io/badge/Express-0B131A?style=for-the-badge&logo=express&logoColor=2DD4BF)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0B131A?style=for-the-badge&logo=postgresql&logoColor=2DD4BF)
-![Prisma](https://img.shields.io/badge/Prisma-0B131A?style=for-the-badge&logo=prisma&logoColor=2DD4BF)
-![Stripe](https://img.shields.io/badge/Stripe-0B131A?style=for-the-badge&logo=stripe&logoColor=2DD4BF)
-
-</div>
-
-**✨ Key Highlights**
-- 🔒 &nbsp;Multi-role authentication (Admin, Landlord, Tenant)
-- 🏢 &nbsp;Full CRUD property listings with rich request workflows
-- 💰 &nbsp;Stripe payment gateway with webhook-based confirmation
-- 🗄️ &nbsp;Type-safe Prisma ORM & normalized PostgreSQL schema
-
-<div align="center">
-
-[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-2DD4BF?style=for-the-badge&logo=github&logoColor=0B131A)](https://github.com/rayhaanrakib/RentNest-Backend-Project)
-
-</div>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ============================================= -->
 <!-- ★ RECENT PROJECTS INTERACTIVE CARDS ★ -->
 <!-- ============================================= -->
 
@@ -302,25 +319,25 @@ I'm **Rakibul Islam Rayhan**, a full-stack web developer who started on the fron
 <table width="100%" style="width:100%; table-layout:fixed;">
   <tr>
     <td width="50%" align="center" valign="middle">
-      <a href="https://github.com/rayhaanrakib/RentNest-Frontend-Project">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=rayhaanrakib&repo=RentNest-Frontend-Project&theme=dark&bg_color=0B131A&title_color=2DD4BF&icon_color=2DD4BF&text_color=B9C7CA&border_color=2DD4BF&show_owner=false" alt="RentNest Frontend Repo Card" width="100%" height="150" style="width:100%; height:150px; object-fit:cover;">
+      <a href="https://github.com/rayhaanrakib/bidyut-backend">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=rayhaanrakib&repo=bidyut-backend&theme=dark&bg_color=0B131A&title_color=2DD4BF&icon_color=2DD4BF&text_color=B9C7CA&border_color=2DD4BF&show_owner=false" alt="BIDYUT Backend Repo Card" width="100%" height="150" style="width:100%; height:150px; object-fit:cover;">
       </a>
     </td>
     <td width="50%" align="center" valign="middle">
-      <a href="https://github.com/rayhaanrakib/RentNest-Backend-Project">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=rayhaanrakib&repo=RentNest-Backend-Project&theme=dark&bg_color=0B131A&title_color=2DD4BF&icon_color=2DD4BF&text_color=B9C7CA&border_color=2DD4BF&show_owner=false" alt="RentNest Backend Repo Card" width="100%" height="150" style="width:100%; height:150px; object-fit:cover;">
+      <a href="https://github.com/rayhaanrakib/RentNest-Frontend-Project">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=rayhaanrakib&repo=RentNest-Frontend-Project&theme=dark&bg_color=0B131A&title_color=2DD4BF&icon_color=2DD4BF&text_color=B9C7CA&border_color=2DD4BF&show_owner=false" alt="RentNest Frontend Repo Card" width="100%" height="150" style="width:100%; height:150px; object-fit:cover;">
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center" valign="middle">
-      <a href="https://github.com/rayhaanrakib/Prisma-Express-Server-Setup-Guide">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=rayhaanrakib&repo=Prisma-Express-Server-Setup-Guide&theme=dark&bg_color=0B131A&title_color=2DD4BF&icon_color=2DD4BF&text_color=B9C7CA&border_color=2DD4BF&show_owner=false" alt="Prisma Express Server Setup Guide Repo Card" width="100%" height="150" style="width:100%; height:150px; object-fit:cover;">
+      <a href="https://github.com/rayhaanrakib/RentNest-Backend-Project">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=rayhaanrakib&repo=RentNest-Backend-Project&theme=dark&bg_color=0B131A&title_color=2DD4BF&icon_color=2DD4BF&text_color=B9C7CA&border_color=2DD4BF&show_owner=false" alt="RentNest Backend Repo Card" width="100%" height="150" style="width:100%; height:150px; object-fit:cover;">
       </a>
     </td>
     <td width="50%" align="center" valign="middle">
-      <a href="https://github.com/rayhaanrakib/rayhan.dev">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=rayhaanrakib&repo=rayhan.dev&theme=dark&bg_color=0B131A&title_color=2DD4BF&icon_color=2DD4BF&text_color=B9C7CA&border_color=2DD4BF&show_owner=false" alt="rayhan.dev Repo Card" width="100%" height="150" style="width:100%; height:150px; object-fit:cover;">
+      <a href="https://github.com/rayhaanrakib/Prisma-Express-Server-Setup-Guide">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=rayhaanrakib&repo=Prisma-Express-Server-Setup-Guide&theme=dark&bg_color=0B131A&title_color=2DD4BF&icon_color=2DD4BF&text_color=B9C7CA&border_color=2DD4BF&show_owner=false" alt="Prisma Express Server Setup Guide Repo Card" width="100%" height="150" style="width:100%; height:150px; object-fit:cover;">
       </a>
     </td>
   </tr>
@@ -336,9 +353,22 @@ I'm **Rakibul Islam Rayhan**, a full-stack web developer who started on the fron
 
 <br/>
 
-
+<!-- ============================================= -->
+<!-- ★ ANIMATED AESTHETIC GIF'S BY RAYHAANRAKIB ★ -->
+<!-- ============================================= -->
 <div align="center">
-  <img src="https://res.cloudinary.com/atwb5lzk/image/upload/v1788777354/closing-banner.png" width="100%" style="max-width:260px; border-radius:10px;" alt="reading at a dreamy train platform illustration" />
+
+<table width="100%" style="width:100%; table-layout:fixed; border-collapse:collapse;">
+  <tr>
+    <td width="50%" align="center" style="padding:4px;">
+      <img src="https://res.cloudinary.com/atwb5lzk/image/upload/v1788779444/animated-1.gif" width="100%" style="max-width:380px; border-radius:8px;" alt="animated desk aesthetic" />
+    </td>
+    <td width="50%" align="center" style="padding:4px;">
+      <img src="https://res.cloudinary.com/atwb5lzk/image/upload/v1788779444/animated-2.gif" width="100%" style="max-width:380px; border-radius:8px;" alt="animated balcony aesthetic" />
+    </td>
+  </tr>
+</table>
+
 </div>
 
 <br/>
@@ -378,4 +408,4 @@ I'm **Rakibul Islam Rayhan**, a full-stack web developer who started on the fron
 
 </div>
 
-<br/>
+<br/>```
