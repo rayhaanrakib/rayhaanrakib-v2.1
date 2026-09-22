@@ -5,7 +5,7 @@
 <br /><br />
 
 <a href="https://github.com/rayhaanrakib">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=24&duration=3000&pause=800&color=2DD4BF&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;MERN+%7C+Next.js+%7C+TypeScript;Design.+Develop.+Deliver." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=24&duration=3000&pause=800&color=2DD4BF&center=true&vCenter=true&width=650&height=50&lines=Hello%21+I'm+Rakibul+Islam;Full-Stack+Software+Engineer;Specialized+in+Next.js+%26+TypeScript;Backend%3A+Node.js%2C+Express+%26+Postgres;Turning+Complex+Ideas+Into+Code;Design.+Develop.+Deliver." alt="Rakibul Islam Typing SVG" />
 </a>
 
 <br />
@@ -102,7 +102,7 @@ I'm **Rakibul Islam Rayhan**, a full-stack web developer who started on the fron
   <img src="https://img.shields.io/badge/Framer-0B131A?style=for-the-badge&logo=framer&logoColor=2DD4BF" height="40" alt="Framer" />
 </p>
 
-### 🛍️ CMS & E-commerce
+### 🛍️ CMS & Payments
 <p align="left">
   <img src="https://img.shields.io/badge/WordPress-0B131A?style=for-the-badge&logo=wordpress&logoColor=2DD4BF" height="40" alt="WordPress" />
   <img src="https://img.shields.io/badge/Stripe-0B131A?style=for-the-badge&logo=stripe&logoColor=2DD4BF" height="40" alt="Stripe" />
@@ -157,7 +157,7 @@ I'm **Rakibul Islam Rayhan**, a full-stack web developer who started on the fron
 
 <div align="center">
 
-[![Live API](https://img.shields.io/badge/LIVE_API-2DD4BF?style=for-the-badge&logo=vercel&logoColor=0B131A)](https://bidyut-backend.vercel.app/api/v1)
+[![Live API](https://img.shields.io/badge/LIVE_API-2DD4BF?style=for-the-badge&logo=vercel&logoColor=0B131A)](https://bidyut-backend.vercel.app/)
 [![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-2DD4BF?style=for-the-badge&logo=github&logoColor=0B131A)](https://github.com/rayhaanrakib/bidyut-backend)
 
 </div>
@@ -254,7 +254,7 @@ I'm **Rakibul Islam Rayhan**, a full-stack web developer who started on the fron
 
 <div align="center">
 
-[![Live Storefront](https://img.shields.io/badge/LIVE_STOREFRONT-2DD4BF?style=for-the-badge&logo=vercel&logoColor=0B131A)](https://sian-boutique.vercel.app)
+[![Live Storefront](https://img.shields.io/badge/LIVE_STOREFRONT-2DD4BF?style=for-the-badge&logo=vercel&logoColor=0B131A)](https://rayhaanrakib-boutique.vercel.app/en)
 
 </div>
 
@@ -300,7 +300,7 @@ I'm **Rakibul Islam Rayhan**, a full-stack web developer who started on the fron
 
 <div align="center">
 
-[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-2DD4BF?style=for-the-badge&logo=github&logoColor=0B131A)](https://github.com/rayhaanrakib/GoStudent-Client)
+[![Live Platform](https://img.shields.io/badge/LIVE_PLATFORM-2DD4BF?style=for-the-badge&logo=vercel&logoColor=0B131A)](https://rayhaanrakib-gostudent.vercel.app)
 
 </div>
 
